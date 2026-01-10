@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ahmed Samy Mohamed Kamel
 
-<!--
-**safenga7/safenga7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in React, Next.js, and TypeScript.
+I have 1.5+ years of production experience building real-world web applications,
+including industrial dashboards and MES systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- React.js, Next.js (App Router)
+- TypeScript, JavaScript
+- Tailwind CSS, Bootstrap
+- Playwright (E2E Testing)
+- REST APIs, LocalStorage
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- MES Frontend Platform – Production workflow simulation with real-time KPIs
+- React Roadmap Tracker – Interactive learning tracker with persistent progress
+- E-Learning Platform – Responsive educational platform
+
+📍 Based in Russia | Open to Remote & On-site opportunities
