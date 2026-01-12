@@ -1,11 +1,11 @@
 # Ahmed Samy Mohamed Kamel
 
-Frontend Developer specializing in React, Next.js, and TypeScript.
+Frontend Developer specializing in Reactand TypeScript.
 I have 1.5+ years of production experience building real-world web applications,
 including industrial dashboards and MES systems.
 
 ## 🔧 Tech Stack
-- React.js, Next.js (App Router)
+- React.js, (App Router)
 - TypeScript, JavaScript
 - Tailwind CSS, Bootstrap
 - Playwright (E2E Testing)
