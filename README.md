@@ -106,7 +106,7 @@ Python Telegram bot supporting product browsing, shopping-cart management, and o
 I'm interested in opportunities involving **AI Engineering, Python Backend Development, AI APIs, and AI Automation Systems**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-samy-mohamed-a0b419423">
+  <a href="https://www.linkedin.com/in/ahmedsamydev/">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Samy-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/safenga7">
