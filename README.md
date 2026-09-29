@@ -100,14 +100,6 @@ Python Telegram bot supporting product browsing, shopping-cart management, and o
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=safenga7&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safenga7&layout=compact&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
